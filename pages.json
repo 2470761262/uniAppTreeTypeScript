@@ -6,13 +6,7 @@
 			"style": {
 				"navigationBarTitleText": "大师版zrTree"
 			}
-		},
-		{
-		    "path" : "pages/shangshou/shangshou",
-		    "style" : {}
-		}
-		
-        
+		}     
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
